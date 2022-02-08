@@ -22,3 +22,15 @@ ul {
     background-color: #555;
     color: white;
   }
+  #macskaskep{
+    margin-right: 5%;
+    width: 25%;
+    height: 25%;
+    float: right;
+    border: 1px solid black;
+    box-shadow: 0 0 15 gray;
+  }
+  #video{
+    width: 60%;
+    height: 60%;
+  }
