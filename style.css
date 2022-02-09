@@ -43,8 +43,20 @@ ul {
   }
   .bottom-left {
     position: absolute;
-    bottom: -40px;
+    bottom: 150px;
     right: 16px;
     font-size: 70px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
+  .foszoveg{
+    font-size: x-large;
+  }
+  #fejlec{
+    border-style: solid 1px black;
+  }
+  #fejlec td{
+    width: 50%;
+  }
+  .dolt{
+    font-style: italic;
+  }  
