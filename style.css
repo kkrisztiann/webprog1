@@ -34,3 +34,7 @@ ul {
     width: 60%;
     height: 60%;
   }
+  h1{
+    text-align: center;
+    font-style: italic;
+  }
