@@ -60,3 +60,18 @@ ul {
   .dolt{
     font-style: italic;
   }  
+  table tr td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    color:rgb(80, 49, 41);
+    font-weight: bold;
+    font-size: larger;
+  }
+  .macskakepek{
+    width: 400px;
+    height: 300px;
+  }
+  #macskafajtak{
+    text-align: center;
+  }
