@@ -33,10 +33,13 @@ ul {
     width: 60%;
     height: 60%;
   }
-  h1{
+.cim{
     text-align: center;
     font-style: italic;
-    font-size: 350%;
+}
+.jobbcim {
+  width: 70%;
+  border: 1px solid black;
   }
   #fooldalkep{
     float: right;
