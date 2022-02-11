@@ -51,10 +51,7 @@ ul {
   .foszoveg{
     font-size: x-large;
   }
-  #fejlec{
-    border-style: solid 1px black;
-  }
-  #fejlec td{
+  .fejlec td{
     width: 50%;
   }
   .dolt{
